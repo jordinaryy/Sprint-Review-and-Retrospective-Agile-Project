@@ -9,7 +9,7 @@ Honestly, the first step for me is just listening to what people actually want�
 
 **How do I start working on a program? What Agile stuff do I want to use in the future?
 
-I’m not gonna lie—big projects can be overwhelming. So now, I try to chop everything up into small chunks and just work on a little bit at a time. Agile helped me with that for sure. I like the idea of just building a piece, checking it, getting feedback, and then moving on. For my future work, I definitely want to keep breaking things down into sprints and actually talking things out with people instead of suffering in silence when something goes wrong.
+I’m not gonna lie, big projects can be overwhelming. So now, I try to chop everything up into small chunks and just work on a little bit at a time. Agile helped me with that for sure. I like the idea of just building a piece, checking it, getting feedback, and then moving on. For my future work, I definitely want to keep breaking things down into sprints and actually talking things out with people instead of suffering in silence when something goes wrong.
 
 **What does it mean to be a good team member in software development?
 
