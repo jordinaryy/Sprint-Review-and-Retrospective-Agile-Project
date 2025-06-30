@@ -1,6 +1,8 @@
 # Sprint-Review-and-Retrospective-Agile-Project
 
 Essential Questions Reflection
+
+
 **How do I figure out what users want and turn that into a program? How do user stories help?
 
 Honestly, the first step for me is just listening to what people actually want—not just what they say at first, but what they really need. Sometimes it’s easy to get lost in the details, so I like using user stories because they help break things down. When I write stuff like, “As a user, I want to book a trip, so that I can go on vacation,” it makes it way clearer what I’m supposed to build. User stories keep me focused so I don’t end up coding a bunch of random features nobody asked for.
